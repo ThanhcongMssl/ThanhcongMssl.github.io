@@ -7,6 +7,25 @@
     <atom:link href="http://thanhcongmssl.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Venus</title>
+        <description>&lt;p&gt;Code style là một khái niệm rất quan trọng trong lập trình, với các nhà phát triển chuyên nghiệp thì code style luôn là thứ đầu tiên cần xác định trước khi xây dựng một phần mềm. Về định nghĩa thì nó được hiểu là một cách viết code chung giữa các lập trình viên, giúp họ có thể đọc hiểu, trao đổi code với nhau một cách dễ dàng. Mặt khác, nó cũng giúp chính bạn có thể nhanh chóng hiểu được những đoạn mã sau một thời gian dài đọc lại.&lt;/p&gt;
+
+&lt;p&gt;Code style được nhiều người sử dụng thường được xây dựng bởi những tổ chức hay cộng đồng lớn như Apple, Google, Git, Apache… Vì vậy, với mỗi ngôn ngữ cũng sẽ có các code style khác nhau, chúng phụ thuộc vào cộng đồng lập trình viên cũng như hệ sinh thái.&lt;/p&gt;
+
+&lt;p&gt;Code style của HTML/CSS thì các bạn có thể tham khảo ở một số nguồn sau:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/styleguide&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://codeguide.co/&quot;&gt;Code Guide&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Oct 2014 20:13:13 +0700</pubDate>
+        <link>http://thanhcongmssl.com/blog/2014/10/10/venus/</link>
+        <guid isPermaLink="true">http://thanhcongmssl.com/blog/2014/10/10/venus/</guid>
+      </item>
+    
+      <item>
         <title>Zeus</title>
         <description>&lt;p&gt;Khi ta chọn một con đường, nhiều khi ta còn không biết nó sẽ như thế nào, những ta vẫn cứ đi. Chúng ta nên như vậy, vì chỉ khi đi được một quãng đường, nhìn lại, ta mới đánh giá được chính xác con đường ta đi có đúng hay không?&lt;/p&gt;
 

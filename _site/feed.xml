@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thành Công&#39;s Blog</title>
+    <description>A blog to share the feeling in my life.</description>
+    <link>http://thanhcongmssl.com/</link>
+    <atom:link href="http://thanhcongmssl.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Zeus</title>
+        <description>&lt;p&gt;Khi ta chọn một con đường, nhiều khi ta còn không biết nó sẽ như thế nào, những ta vẫn cứ đi. Chúng ta nên như vậy, vì chỉ khi đi được một quãng đường, nhìn lại, ta mới đánh giá được chính xác con đường ta đi có đúng hay không?&lt;/p&gt;
+
+&lt;p&gt;Khi ta còn trẻ, điều tuyệt với nhất là ta được thử sức mình, được trải nghiệm, được nông nổi, bồng bột, ta không có gì để mất cả. Có những lúc mọi thứ thật khó khăn, nhưng với đam mê của mình, mọi thứ sẽ được giải quyết. Nghĩ lại về tuổi thơ, lúc đó ta ham chơi, không suy nghĩ gì, ta ngây ngô, khờ dại nhưng nó là con người mà ta luôn muốn được như vậy thêm một lần.&lt;/p&gt;
+
+&lt;p&gt;Hơn bao giờ hết, hãy làm điều mình thích, sống với đam mê. Và hãy luôn khát khao, hãy cứ dại khờ.&lt;/p&gt;
+
+&lt;iframe width=&quot;768&quot; height=&quot;432&quot; src=&quot;http://www.youtube.com/embed/xQ_IQS3VKjA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 05 Oct 2014 20:13:13 +0700</pubDate>
+        <link>http://thanhcongmssl.com/blog/2014/10/05/zeus/</link>
+        <guid isPermaLink="true">http://thanhcongmssl.com/blog/2014/10/05/zeus/</guid>
+      </item>
+    
+      <item>
+        <title>Chaos</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Oct 2014 18:11:11 +0700</pubDate>
+        <link>http://thanhcongmssl.com/blog/2014/10/05/chaos/</link>
+        <guid isPermaLink="true">http://thanhcongmssl.com/blog/2014/10/05/chaos/</guid>
+      </item>
+    
+  </channel>
+</rss>

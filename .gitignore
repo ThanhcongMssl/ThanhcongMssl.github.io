@@ -215,5 +215,8 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-#jekyll
+#Jekyll
 _site/
+
+#Command
+submit.bat
